@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+# Environment variables
+.env
+# Compiled files
+dist/
+# Logs
+logs/
+# Dependencies
+package-lock.json
+# IDE files
+.vscode/
+.idea/
+# OS files
+.DS_Store
+# User files
+*.log
+*.log.*
+*.log-*
+*.log/*
+*.log-/*
+.vercel

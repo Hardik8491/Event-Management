@@ -1,0 +1,446 @@
+{
+    "courses": [
+      {
+        "title": "Advanced React Patterns and Best Practices",
+        "description": "Master the art of building scalable and maintainable React applications with advanced patterns and industry best practices.",
+        "rating": 4.8,
+        "students": 15234,
+        "language": "English",
+        "price": 99.99,
+        "estimatedPrice": 79.99,
+        "thumbnail": "/placeholder.svg?height=400&width=600",
+        "demoUrl": "thisisiexm.is",
+        "level": "Beginner",
+        "category": "web",
+        "instructor": {
+          "name": "Jane Doe",
+          "title": "Senior React Developer",
+          "avatar": "/placeholder.svg?height=100&width=100",
+          "courses": 12,
+          "students": 50000,
+          "rating": 4.9
+        },
+        "features": [
+          { "icon": "Clock", "text": "40 hours of video content" },
+          { "icon": "Book", "text": "120 lessons" },
+          { "icon": "GraduationCap", "text": "Certificate of completion" },
+          { "icon": "Calendar", "text": "Lifetime access" }
+        ],
+        "curriculum": [
+          {
+            "title": "Introduction to Advanced React",
+            "lessons": [
+              { "title": "Course Overview", "duration": "5:00" },
+              { "title": "Setting Up the Development Environment", "duration": "15:00" }
+            ]
+          },
+          {
+            "title": "Higher-Order Components (HOCs)",
+            "lessons": [
+              { "title": "Understanding HOCs", "duration": "20:00" },
+              { "title": "Implementing HOCs", "duration": "30:00" },
+              { "title": "HOC Best Practices", "duration": "25:00" }
+            ]
+          },
+          {
+            "title": "Render Props Pattern",
+            "lessons": [
+              { "title": "Introduction to Render Props", "duration": "15:00" },
+              { "title": "Creating Reusable Components with Render Props", "duration": "35:00" }
+            ]
+          }
+        ],
+        "courseData": [
+          { "videoUrl": "https://example.com/video" },
+          { "videoSection": "Advanced React Techniques" },
+          { "videoLength": "5:00" },
+          { "videoPlayer": "HTML5 Video Player" },
+          {
+            "link": [
+              {
+                "title": "Official React Documentation",
+                "url": "https://reactjs.org/docs/getting-started.html"
+              },
+              {
+                "title": "JavaScript Info",
+                "url": "https://javascript.info/"
+              }
+            ]
+          },
+          { "suggestion": "Consider exploring related courses for deeper understanding." },
+          {
+            "questions": [
+              {
+                "user": "student1",
+                "question": "What are Higher-Order Components?",
+                "answers": [
+                  {
+                    "user": "instructor",
+                    "answer": "Higher-Order Components are functions that take a component and return a new component."
+                  }
+                ]
+              },
+              {
+                "user": "student2",
+                "question": "Can you provide examples of Render Props?",
+                "answers": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "State Management with Redux",
+        "description": "Learn how to manage state in your React applications using Redux for predictable state management.",
+        "rating": 4.7,
+        "students": 10500,
+        "language": "English",
+        "price": 79.99,
+        "estimatedPrice": 59.99,
+        "thumbnail": "/placeholder.svg?height=400&width=600",
+        "demoUrl": "thisisiexm.is",
+        "level": "Intermediate",
+        "category": "web",
+        "instructor": {
+          "name": "John Smith",
+          "title": "Senior Software Engineer",
+          "avatar": "/placeholder.svg?height=100&width=100",
+          "courses": 8,
+          "students": 35000,
+          "rating": 4.8
+        },
+        "features": [
+          { "icon": "Clock", "text": "30 hours of video content" },
+          { "icon": "Book", "text": "90 lessons" },
+          { "icon": "GraduationCap", "text": "Certificate of completion" },
+          { "icon": "Calendar", "text": "Lifetime access" }
+        ],
+        "curriculum": [
+          {
+            "title": "Getting Started with Redux",
+            "lessons": [
+              { "title": "Introduction to Redux", "duration": "10:00" },
+              { "title": "Setting Up Redux", "duration": "15:00" }
+            ]
+          },
+          {
+            "title": "Understanding Redux Principles",
+            "lessons": [
+              { "title": "Actions and Reducers", "duration": "20:00" },
+              { "title": "Store and Middleware", "duration": "30:00" }
+            ]
+          },
+          {
+            "title": "Integrating Redux with React",
+            "lessons": [
+              { "title": "Connecting Redux to React Components", "duration": "25:00" },
+              { "title": "Using Redux with React Hooks", "duration": "20:00" }
+            ]
+          }
+        ],
+        "courseData": [
+          { "videoUrl": "https://example.com/video" },
+          { "videoSection": "State Management Techniques" },
+          { "videoLength": "5:00" },
+          { "videoPlayer": "HTML5 Video Player" },
+          {
+            "link": [
+              {
+                "title": "Redux Documentation",
+                "url": "https://redux.js.org/introduction/getting-started"
+              },
+              {
+                "title": "React Redux Documentation",
+                "url": "https://react-redux.js.org/introduction/getting-started"
+              }
+            ]
+          },
+          { "suggestion": "Explore additional courses on React for a broader perspective." },
+          {
+            "questions": [
+              {
+                "user": "student1",
+                "question": "What is Redux?",
+                "answers": [
+                  {
+                    "user": "instructor",
+                    "answer": "Redux is a state management library that helps you manage the state of your application in a predictable way."
+                  }
+                ]
+              },
+              {
+                "user": "student2",
+                "question": "How does middleware work in Redux?",
+                "answers": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Building React Applications with TypeScript",
+        "description": "Discover how to leverage TypeScript's powerful type system to create robust React applications.",
+        "rating": 4.9,
+        "students": 7800,
+        "language": "English",
+        "price": 89.99,
+        "estimatedPrice": 69.99,
+        "thumbnail": "/placeholder.svg?height=400&width=600",
+        "demoUrl": "thisisiexm.is",
+        "level": "Intermediate",
+        "category": "web",
+        "instructor": {
+          "name": "Emma Johnson",
+          "title": "TypeScript Expert",
+          "avatar": "/placeholder.svg?height=100&width=100",
+          "courses": 5,
+          "students": 20000,
+          "rating": 4.7
+        },
+        "features": [
+          { "icon": "Clock", "text": "25 hours of video content" },
+          { "icon": "Book", "text": "75 lessons" },
+          { "icon": "GraduationCap", "text": "Certificate of completion" },
+          { "icon": "Calendar", "text": "Lifetime access" }
+        ],
+        "curriculum": [
+          {
+            "title": "Introduction to TypeScript",
+            "lessons": [
+              { "title": "What is TypeScript?", "duration": "10:00" },
+              { "title": "Setting Up TypeScript with React", "duration": "15:00" }
+            ]
+          },
+          {
+            "title": "Typing React Components",
+            "lessons": [
+              { "title": "Defining Props and State Types", "duration": "20:00" },
+              { "title": "Using Generics in React", "duration": "25:00" }
+            ]
+          },
+          {
+            "title": "Advanced TypeScript Patterns",
+            "lessons": [
+              { "title": "Type Guards and Conditional Types", "duration": "30:00" },
+              { "title": "Utility Types and their Uses", "duration": "20:00" }
+            ]
+          }
+        ],
+        "courseData": [
+          { "videoUrl": "https://example.com/video" },
+          { "videoSection": "Type-Safe React Development" },
+          { "videoLength": "5:00" },
+          { "videoPlayer": "HTML5 Video Player" },
+          {
+            "link": [
+              {
+                "title": "TypeScript Documentation",
+                "url": "https://www.typescriptlang.org/docs/"
+              },
+              {
+                "title": "React TypeScript Cheatsheet",
+                "url": "https://react-typescript-cheatsheet.netlify.app/"
+              }
+            ]
+          },
+          { "suggestion": "Consider other courses on TypeScript for more depth." },
+          {
+            "questions": [
+              {
+                "user": "student1",
+                "question": "Why use TypeScript with React?",
+                "answers": [
+                  {
+                    "user": "instructor",
+                    "answer": "TypeScript provides type safety, which helps catch errors during development."
+                  }
+                ]
+              },
+              {
+                "user": "student2",
+                "question": "Can I use TypeScript with existing JavaScript projects?",
+                "answers": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Full-Stack Development with MERN",
+        "description": "Become a full-stack developer by building applications with the MERN stack: MongoDB, Express, React, and Node.js.",
+        "rating": 4.6,
+        "students": 15000,
+        "language": "English",
+        "price": 99.99,
+        "estimatedPrice": 79.99,
+        "thumbnail": "/placeholder.svg?height=400&width=600",
+        "demoUrl": "thisisiexm.is",
+        "level": "Advanced",
+        "category": "web",
+        "instructor": {
+          "name": "David Brown",
+          "title": "Full-Stack Engineer",
+          "avatar": "/placeholder.svg?height=100&width=100",
+          "courses": 10,
+          "students": 40000,
+          "rating": 4.5
+        },
+        "features": [
+          { "icon": "Clock", "text": "50 hours of video content" },
+          { "icon": "Book", "text": "150 lessons" },
+          { "icon": "GraduationCap", "text": "Certificate of completion" },
+          { "icon": "Calendar", "text": "Lifetime access" }
+        ],
+        "curriculum": [
+          {
+            "title": "Introduction to the MERN Stack",
+            "lessons": [
+              { "title": "What is MERN?", "duration": "10:00" },
+              { "title": "Setting Up Your MERN Environment", "duration": "20:00" }
+            ]
+          },
+          {
+            "title": "Building the Backend with Express and MongoDB",
+            "lessons": [
+              { "title": "Creating a RESTful API with Express", "duration": "30:00" },
+              { "title": "Connecting MongoDB to Express", "duration": "25:00" }
+            ]
+          },
+          {
+            "title": "Developing the Frontend with React",
+            "lessons": [
+              { "title": "Creating React Components", "duration": "20:00" },
+              { "title": "State Management in React", "duration": "35:00" }
+            ]
+          }
+        ],
+        "courseData": [
+          { "videoUrl": "https://example.com/video" },
+          { "videoSection": "MERN Stack Application Development" },
+          { "videoLength": "5:00" },
+          { "videoPlayer": "HTML5 Video Player" },
+          {
+            "link": [
+              {
+                "title": "MERN Documentation",
+                "url": "https://www.mongodb.com/mern-stack"
+              },
+              {
+                "title": "Node.js Documentation",
+                "url": "https://nodejs.org/en/docs/"
+              }
+            ]
+          },
+          { "suggestion": "Look for other full-stack courses for broader exposure." },
+          {
+            "questions": [
+              {
+                "user": "student1",
+                "question": "What are the advantages of using the MERN stack?",
+                "answers": [
+                  {
+                    "user": "instructor",
+                    "answer": "The MERN stack allows for a seamless integration of technologies, making it easier to build complex applications."
+                  }
+                ]
+              },
+              {
+                "user": "student2",
+                "question": "Can I use other databases with the MERN stack?",
+                "answers": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Next.js for Production",
+        "description": "Learn how to deploy and optimize Next.js applications for production environments.",
+        "rating": 4.5,
+        "students": 6500,
+        "language": "English",
+        "price": 79.99,
+        "estimatedPrice": 59.99,
+        "thumbnail": "/placeholder.svg?height=400&width=600",
+        "demoUrl": "thisisiexm.is",
+        "level": "Advanced",
+        "category": "web",
+        "instructor": {
+          "name": "Sarah Connor",
+          "title": "Full-Stack Developer",
+          "avatar": "/placeholder.svg?height=100&width=100",
+          "courses": 6,
+          "students": 18000,
+          "rating": 4.6
+        },
+        "features": [
+          { "icon": "Clock", "text": "20 hours of video content" },
+          { "icon": "Book", "text": "50 lessons" },
+          { "icon": "GraduationCap", "text": "Certificate of completion" },
+          { "icon": "Calendar", "text": "Lifetime access" }
+        ],
+        "curriculum": [
+          {
+            "title": "Next.js Basics",
+            "lessons": [
+              { "title": "Introduction to Next.js", "duration": "10:00" },
+              { "title": "Creating Your First Next.js App", "duration": "15:00" }
+            ]
+          },
+          {
+            "title": "Optimizing Next.js Applications",
+            "lessons": [
+              { "title": "Performance Optimization Techniques", "duration": "25:00" },
+              { "title": "SEO Best Practices for Next.js", "duration": "30:00" }
+            ]
+          },
+          {
+            "title": "Deploying Next.js Applications",
+            "lessons": [
+              { "title": "Deployment Strategies", "duration": "20:00" },
+              { "title": "Using Vercel for Deployment", "duration": "15:00" }
+            ]
+          }
+        ],
+        "courseData": [
+          { "videoUrl": "https://example.com/video" },
+          { "videoSection": "Next.js in Production" },
+          { "videoLength": "5:00" },
+          { "videoPlayer": "HTML5 Video Player" },
+          {
+            "link": [
+              {
+                "title": "Next.js Documentation",
+                "url": "https://nextjs.org/docs"
+              },
+              {
+                "title": "Vercel Documentation",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          { "suggestion": "Explore courses on web performance for additional insights." },
+          {
+            "questions": [
+              {
+                "user": "student1",
+                "question": "What is the best way to deploy a Next.js app?",
+                "answers": [
+                  {
+                    "user": "instructor",
+                    "answer": "Vercel is the recommended platform for deploying Next.js applications."
+                  }
+                ]
+              },
+              {
+                "user": "student2",
+                "question": "Can I use Next.js with a custom server?",
+                "answers": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
